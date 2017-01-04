@@ -1,3 +1,4 @@
 # sample-repositoy
 
-write a little bit o' information here.
+Write a little bit o' information here.
+There's something else too but I forgot.
